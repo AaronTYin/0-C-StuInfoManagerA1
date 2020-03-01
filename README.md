@@ -10,3 +10,21 @@ My first middlely system with C++
 >密码是8个1。
 
 >具体项目过程详见：[C++学生成绩管理系统](https://mengze.top/C++学生成绩管理系统/)
+
+
+## 登陆界面
+<img src="" width=60%></img>
+## 菜单界面
+<img src="" width=60%></img>
+## 读取数据库
+<img src="" width=60%></img>
+## 录入信息
+<img src="" width=60%></img>
+## 录入反馈
+<img src="" width=60%></img>
+## 修改界面
+<img src="" width=60%></img>
+## 统计菜单
+<img src="" width=60%></img>
+## 退出
+<img src="" width=60%></img>
