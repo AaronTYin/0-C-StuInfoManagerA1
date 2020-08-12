@@ -9,7 +9,7 @@ My first middlely system with C++
 
 >密码是8个1。
 
->具体项目过程详见：[【O】C++学生成绩管理系统](https://mengze.top/[O]C++学生成绩管理系统/)
+>具体项目过程详见：[【O】C++学生成绩管理系统](https://mengze.top/[O]CPP学生成绩管理系统/)
 
 
 ## 登陆界面
