@@ -1,4 +1,4 @@
-# StuInfoManagerA1
+# O-C-StuInfoManagerA1
 My first middlely system with C++
 
 >这是大学学完C做的一个实训，界面和提示已经尽可能做到友好了，各项功能也还算完备。
